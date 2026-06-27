@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: 0d167193e8d028d41a846b48b3422ce7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5998716666388141917
+    second: rune_terrain_0
+  - first:
+      213: -9192789233439154415
+    second: rune_terrain_1
+  - first:
+      213: -1108460124597948868
+    second: rune_terrain_2
+  - first:
+      213: 7035032814074537753
+    second: rune_terrain_3
+  - first:
+      213: -8477383473494946059
+    second: rune_terrain_4
+  - first:
+      213: -3481166782308030535
+    second: rune_terrain_5
+  - first:
+      213: 4312648093596486327
+    second: rune_terrain_6
+  - first:
+      213: -2513612649280160064
+    second: rune_terrain_7
+  - first:
+      213: 3445398410537822000
+    second: rune_terrain_8
+  - first:
+      213: -4200221081747379992
+    second: rune_terrain_9
+  - first:
+      213: 5349471115747778889
+    second: rune_terrain_10
+  - first:
+      213: 1782641013013352235
+    second: rune_terrain_11
+  - first:
+      213: 934029556760449205
+    second: rune_terrain_12
+  - first:
+      213: -8242289980940556081
+    second: rune_terrain_13
+  - first:
+      213: 6715669620599691455
+    second: rune_terrain_14
+  - first:
+      213: 874523998904523239
+    second: rune_terrain_15
+  - first:
+      213: -1507550160571348579
+    second: rune_terrain_16
+  - first:
+      213: 666969380454289514
+    second: rune_terrain_17
+  - first:
+      213: -2613348171282113008
+    second: rune_terrain_18
+  - first:
+      213: -3111307053844470861
+    second: rune_terrain_19
+  - first:
+      213: -86116320333172947
+    second: rune_terrain_20
+  - first:
+      213: -2652959100136574929
+    second: rune_terrain_21
+  - first:
+      213: 5299687762765137574
+    second: rune_terrain_22
+  - first:
+      213: 7671485804758053505
+    second: rune_terrain_23
+  - first:
+      213: 5325780613283996905
+    second: rune_terrain_24
+  - first:
+      213: -6423171316557984541
+    second: rune_terrain_25
+  - first:
+      213: 308420239270879647
+    second: rune_terrain_26
+  - first:
+      213: 1895895137719256203
+    second: rune_terrain_27
+  - first:
+      213: 7555376580663820421
+    second: rune_terrain_28
+  - first:
+      213: -7626519893832412810
+    second: rune_terrain_29
+  - first:
+      213: 7694431527703194379
+    second: rune_terrain_30
+  - first:
+      213: -2020961965494837470
+    second: rune_terrain_31
+  - first:
+      213: -3975034412923667215
+    second: rune_terrain_32
+  - first:
+      213: -2739082193932002072
+    second: rune_terrain_33
+  - first:
+      213: 3825540263323229027
+    second: rune_terrain_34
+  - first:
+      213: 8345139679532426043
+    second: rune_terrain_35
+  - first:
+      213: 8043966637044890685
+    second: rune_terrain_36
+  - first:
+      213: -6241562115101918031
+    second: rune_terrain_37
+  - first:
+      213: 4453989364066584631
+    second: rune_terrain_38
+  - first:
+      213: 7384565105997731815
+    second: rune_terrain_39
+  - first:
+      213: 2480892249351780019
+    second: rune_terrain_40
+  - first:
+      213: -8708873882110535112
+    second: rune_terrain_41
+  - first:
+      213: 2721385764557278899
+    second: rune_terrain_42
+  - first:
+      213: 5661459907664844051
+    second: rune_terrain_43
+  - first:
+      213: 7241054039388059202
+    second: rune_terrain_44
+  - first:
+      213: 2948609671924750057
+    second: rune_terrain_45
+  - first:
+      213: 8388595806199635906
+    second: rune_terrain_46
+  - first:
+      213: 7352888532913116760
+    second: rune_terrain_47
+  - first:
+      213: -6467130236575377012
+    second: rune_terrain_48
+  - first:
+      213: 1607126766130592686
+    second: rune_terrain_49
+  - first:
+      213: 139143227517803045
+    second: rune_terrain_50
+  - first:
+      213: 8270862376517143496
+    second: rune_terrain_51
+  - first:
+      213: -8106135297935577185
+    second: rune_terrain_52
+  - first:
+      213: 8359911135012701644
+    second: rune_terrain_53
+  - first:
+      213: -144515341802801613
+    second: rune_terrain_54
+  - first:
+      213: 5511293776711127229
+    second: rune_terrain_55
+  - first:
+      213: 3131058500314896974
+    second: rune_terrain_56
+  - first:
+      213: -8206762474575396699
+    second: rune_terrain_57
+  - first:
+      213: -6890316915986342354
+    second: rune_terrain_58
+  - first:
+      213: -5151752345242365098
+    second: rune_terrain_59
+  - first:
+      213: -7181280761981531056
+    second: rune_terrain_60
+  - first:
+      213: -3708625758275580653
+    second: rune_terrain_61
+  - first:
+      213: 7858538576699798251
+    second: rune_terrain_62
+  - first:
+      213: -1642471368910214613
+    second: rune_terrain_63
+  - first:
+      213: 8945026871864815912
+    second: rune_terrain_64
+  - first:
+      213: 52926332159662366
+    second: rune_terrain_65
+  - first:
+      213: -8963065520580136149
+    second: rune_terrain_66
+  - first:
+      213: 4496213642731447703
+    second: rune_terrain_67
+  - first:
+      213: -5236907245856979645
+    second: rune_terrain_68
+  - first:
+      213: -6471323792526753716
+    second: rune_terrain_69
+  - first:
+      213: 7519671114450634828
+    second: rune_terrain_70
+  - first:
+      213: -382476021275697089
+    second: rune_terrain_71
+  - first:
+      213: -6966034236835765095
+    second: rune_terrain_72
+  - first:
+      213: 5174483106613581402
+    second: rune_terrain_73
+  - first:
+      213: 3859169087882124673
+    second: rune_terrain_74
+  - first:
+      213: -6974219499635422307
+    second: rune_terrain_75
+  - first:
+      213: 3895775916823497796
+    second: rune_terrain_76
+  - first:
+      213: 1727670718700576748
+    second: rune_terrain_77
+  - first:
+      213: 4648697652548752825
+    second: rune_terrain_78
+  - first:
+      213: -4285163401933281023
+    second: rune_terrain_79
+  - first:
+      213: -4085342887677462347
+    second: rune_terrain_80
+  - first:
+      213: -1391709421049327905
+    second: rune_terrain_81
+  - first:
+      213: 1906152756382388135
+    second: rune_terrain_82
+  - first:
+      213: 1740259371206790853
+    second: rune_terrain_83
+  - first:
+      213: -7340684224719458311
+    second: rune_terrain_84
+  - first:
+      213: 8859079781467236325
+    second: rune_terrain_85
+  - first:
+      213: -6308158952011378739
+    second: rune_terrain_86
+  - first:
+      213: -8207983301192945566
+    second: rune_terrain_87
+  - first:
+      213: -1148079186587067776
+    second: rune_terrain_88
+  - first:
+      213: -4912990123612408002
+    second: rune_terrain_89
+  - first:
+      213: 9113583663539398294
+    second: rune_terrain_90
+  - first:
+      213: 8492072648252411553
+    second: rune_terrain_91
+  - first:
+      213: -1730008066480269886
+    second: rune_terrain_92
+  - first:
+      213: -8506851389554558337
+    second: rune_terrain_93
+  - first:
+      213: -4328833738126086011
+    second: rune_terrain_94
+  - first:
+      213: 268391368003112112
+    second: rune_terrain_95
+  - first:
+      213: 1705274340502638487
+    second: rune_terrain_96
+  - first:
+      213: 2409997439869843865
+    second: rune_terrain_97
+  - first:
+      213: -35035589637350331
+    second: rune_terrain_98
+  - first:
+      213: 8591380862969236234
+    second: rune_terrain_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rune_terrain_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 239
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a828b779f640cca0800000000000000
+      internalID: -5998716666388141917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fd2ddc5e6ac6080800000000000000
+      internalID: -9192789233439154415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e67a9b365fd90f0800000000000000
+      internalID: -1108460124597948868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917212a321571a160800000000000000
+      internalID: 7035032814074537753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 239
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe019d55a84a5a80800000000000000
+      internalID: -8477383473494946059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 239
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7e3a8614960bfc0800000000000000
+      internalID: -3481166782308030535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 239
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba851c779a99db30800000000000000
+      internalID: 4312648093596486327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 239
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce3ab8fc9add1dd0800000000000000
+      internalID: -2513612649280160064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 239
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0376dc1999380df20800000000000000
+      internalID: 3445398410537822000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 239
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8275c0e21d5b5c0800000000000000
+      internalID: -4200221081747379992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 239
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941eb5613a32d3a40800000000000000
+      internalID: 5349471115747778889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 239
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f04b67e863db810800000000000000
+      internalID: 1782641013013352235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 239
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b01c64eee656fc00800000000000000
+      internalID: 934029556760449205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 239
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8e64e8ee08d9d80800000000000000
+      internalID: -8242289980940556081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 239
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb81ab450f9d23d50800000000000000
+      internalID: 6715669620599691455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 239
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9124e81fee22c00800000000000000
+      internalID: 874523998904523239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99cf06cd1b141be0800000000000000
+      internalID: -1507550160571348579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 223
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a605a062e1d814900800000000000000
+      internalID: 666969380454289514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e10503fa58bbbd0800000000000000
+      internalID: -2613348171282113008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 223
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3ee6c08ba62d4d0800000000000000
+      internalID: -3111307053844470861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 223
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f6d25b9ad0ecef0800000000000000
+      internalID: -86116320333172947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 223
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2038b021cbce2bd0800000000000000
+      internalID: -2652959100136574929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 223
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6c918f0f54c8940800000000000000
+      internalID: 5299687762765137574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 223
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1823e04b1b7967a60800000000000000
+      internalID: 7671485804758053505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 223
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e464762049f8e940800000000000000
+      internalID: 5325780613283996905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 223
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec451118bf4cd6a0800000000000000
+      internalID: -6423171316557984541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f912843d29ab74400800000000000000
+      internalID: 308420239270879647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 223
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84852735929f4a10800000000000000
+      internalID: 1895895137719256203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 223
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580c5c258f61ad860800000000000000
+      internalID: 7555376580663820421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 223
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6715ba74098292690800000000000000
+      internalID: -7626519893832412810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 223
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ba05525bc18ca60800000000000000
+      internalID: 7694431527703194379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 223
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fda16ccc914f3e0800000000000000
+      internalID: -2020961965494837470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc3bb71347d5d8c0800000000000000
+      internalID: -3975034412923667215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 207
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecd514c143dcf9d0800000000000000
+      internalID: -2739082193932002072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 207
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bd555d99c071530800000000000000
+      internalID: 3825540263323229027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b332c87f254efc370800000000000000
+      internalID: 8345139679532426043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 207
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c7722a909e1af60800000000000000
+      internalID: 8043966637044890685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 207
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc70d553548169a0800000000000000
+      internalID: -6241562115101918031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 207
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7388e867abfbfcd30800000000000000
+      internalID: 4453989364066584631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_39
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 207
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e75dbbb6de3b7660800000000000000
+      internalID: 7384565105997731815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 207
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6f1a04b56ed6220800000000000000
+      internalID: 2480892249351780019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 207
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83adf17885dd32780800000000000000
+      internalID: -8708873882110535112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 207
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3becd313fed44c520800000000000000
+      internalID: 2721385764557278899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 207
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3159a725acb819e40800000000000000
+      internalID: 5661459907664844051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 207
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246f129b8446d7460800000000000000
+      internalID: 7241054039388059202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_45
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e61b5ccfd09be820800000000000000
+      internalID: 2948609671924750057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 207
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf5cd8e0774a6470800000000000000
+      internalID: 8388595806199635906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 191
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8565455d925ba0660800000000000000
+      internalID: 7352888532913116760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c899cbc60532046a0800000000000000
+      internalID: -6467130236575377012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab7c346749ad4610800000000000000
+      internalID: 1607126766130592686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 191
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a991937065ee100800000000000000
+      internalID: 139143227517803045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 191
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb8272b28108c270800000000000000
+      internalID: 8270862376517143496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 191
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f6b4905e8318f80800000000000000
+      internalID: -8106135297935577185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 191
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5c34472ee540470800000000000000
+      internalID: 8359911135012701644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_54
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 191
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336ff33ff049efdf0800000000000000
+      internalID: -144515341802801613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db010b56d7c0c7c40800000000000000
+      internalID: 5511293776711127229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 161
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a9c32fd11c37b20800000000000000
+      internalID: 3131058500314896974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a08deab209bb1e80800000000000000
+      internalID: -8206762474575396699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 161
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ed4c8754da060a0800000000000000
+      internalID: -6890316915986342354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_59
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 161
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6531b03898c4188b0800000000000000
+      internalID: -5151752345242365098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_60
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 161
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c8ebde137f65c90800000000000000
+      internalID: -7181280761981531056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_61
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dce11a580588cc0800000000000000
+      internalID: -3708625758275580653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 161
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be235edf2332f0d60800000000000000
+      internalID: 7858538576699798251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 161
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a6b5efdf4c439e0800000000000000
+      internalID: -1642471368910214613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_64
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 160
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82173d31c8e132c70800000000000000
+      internalID: 8945026871864815912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_65
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 161
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1914abf7380cb000800000000000000
+      internalID: 52926332159662366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_66
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 161
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f44bb56bcc9380800000000000000
+      internalID: -8963065520580136149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_67
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 162
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795e5417c72c56e30800000000000000
+      internalID: 4496213642731447703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_68
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 161
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34586013b94c257b0800000000000000
+      internalID: -5236907245856979645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40c8e71c4d3136a0800000000000000
+      internalID: -6471323792526753716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_70
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c488894a90d3b5860800000000000000
+      internalID: 7519671114450634828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30e1c8c51c21baf0800000000000000
+      internalID: -382476021275697089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 145
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994e13ce4cca35f90800000000000000
+      internalID: -6966034236835765095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5656f948f47fc740800000000000000
+      internalID: 5174483106613581402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_74
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dd163b6d58e8530800000000000000
+      internalID: 3859169087882124673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_75
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bc0aae058963f90800000000000000
+      internalID: -6974219499635422307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_76
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c49ce3e83901630800000000000000
+      internalID: 3895775916823497796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefddf47d5be9f710800000000000000
+      internalID: 1727670718700576748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_78
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b55c5892ed738040800000000000000
+      internalID: 4648697652548752825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_79
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1092347f69a0884c0800000000000000
+      internalID: -4285163401933281023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_80
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8f05ae942fd47c0800000000000000
+      internalID: -4085342887677462347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_81
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde4ac7b7a7aface0800000000000000
+      internalID: -1391709421049327905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_82
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afcdcb25d3047a10800000000000000
+      internalID: 1906152756382388135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_83
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce43d58da4a62810800000000000000
+      internalID: 1740259371206790853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_84
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff68491796a02a90800000000000000
+      internalID: -7340684224719458311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_85
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e72333bf16c1fa70800000000000000
+      internalID: 8859079781467236325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_86
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf49aeeadae478a0800000000000000
+      internalID: -6308158952011378739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_87
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2607e02eca2671e80800000000000000
+      internalID: -8207983301192945566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_88
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a557500143110f0800000000000000
+      internalID: -1148079186587067776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e377411438d81dbb0800000000000000
+      internalID: -4912990123612408002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_90
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696a1106e04f97e70800000000000000
+      internalID: 9113583663539398294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 81
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae45e5a417e9d570800000000000000
+      internalID: 8492072648252411553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 81
+        width: 66
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c512ea54d6cdf7e0800000000000000
+      internalID: -1730008066480269886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_93
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aff808bb791f980800000000000000
+      internalID: -8506851389554558337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_94
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580b44b76a4ece3c0800000000000000
+      internalID: -4328833738126086011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_95
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 81
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc4b96f68489b300800000000000000
+      internalID: 268391368003112112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_96
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 81
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f8f3e4af95aa710800000000000000
+      internalID: 1705274340502638487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_97
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999fa0127e7027120800000000000000
+      internalID: 2409997439869843865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_98
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 81
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c5b2d1157838ff0800000000000000
+      internalID: -35035589637350331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rune_terrain_99
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 81
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bce533067ba3770800000000000000
+      internalID: 8591380862969236234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rune_terrain_0: -5998716666388141917
+      rune_terrain_1: -9192789233439154415
+      rune_terrain_10: 5349471115747778889
+      rune_terrain_11: 1782641013013352235
+      rune_terrain_12: 934029556760449205
+      rune_terrain_13: -8242289980940556081
+      rune_terrain_14: 6715669620599691455
+      rune_terrain_15: 874523998904523239
+      rune_terrain_16: -1507550160571348579
+      rune_terrain_17: 666969380454289514
+      rune_terrain_18: -2613348171282113008
+      rune_terrain_19: -3111307053844470861
+      rune_terrain_2: -1108460124597948868
+      rune_terrain_20: -86116320333172947
+      rune_terrain_21: -2652959100136574929
+      rune_terrain_22: 5299687762765137574
+      rune_terrain_23: 7671485804758053505
+      rune_terrain_24: 5325780613283996905
+      rune_terrain_25: -6423171316557984541
+      rune_terrain_26: 308420239270879647
+      rune_terrain_27: 1895895137719256203
+      rune_terrain_28: 7555376580663820421
+      rune_terrain_29: -7626519893832412810
+      rune_terrain_3: 7035032814074537753
+      rune_terrain_30: 7694431527703194379
+      rune_terrain_31: -2020961965494837470
+      rune_terrain_32: -3975034412923667215
+      rune_terrain_33: -2739082193932002072
+      rune_terrain_34: 3825540263323229027
+      rune_terrain_35: 8345139679532426043
+      rune_terrain_36: 8043966637044890685
+      rune_terrain_37: -6241562115101918031
+      rune_terrain_38: 4453989364066584631
+      rune_terrain_39: 7384565105997731815
+      rune_terrain_4: -8477383473494946059
+      rune_terrain_40: 2480892249351780019
+      rune_terrain_41: -8708873882110535112
+      rune_terrain_42: 2721385764557278899
+      rune_terrain_43: 5661459907664844051
+      rune_terrain_44: 7241054039388059202
+      rune_terrain_45: 2948609671924750057
+      rune_terrain_46: 8388595806199635906
+      rune_terrain_47: 7352888532913116760
+      rune_terrain_48: -6467130236575377012
+      rune_terrain_49: 1607126766130592686
+      rune_terrain_5: -3481166782308030535
+      rune_terrain_50: 139143227517803045
+      rune_terrain_51: 8270862376517143496
+      rune_terrain_52: -8106135297935577185
+      rune_terrain_53: 8359911135012701644
+      rune_terrain_54: -144515341802801613
+      rune_terrain_55: 5511293776711127229
+      rune_terrain_56: 3131058500314896974
+      rune_terrain_57: -8206762474575396699
+      rune_terrain_58: -6890316915986342354
+      rune_terrain_59: -5151752345242365098
+      rune_terrain_6: 4312648093596486327
+      rune_terrain_60: -7181280761981531056
+      rune_terrain_61: -3708625758275580653
+      rune_terrain_62: 7858538576699798251
+      rune_terrain_63: -1642471368910214613
+      rune_terrain_64: 8945026871864815912
+      rune_terrain_65: 52926332159662366
+      rune_terrain_66: -8963065520580136149
+      rune_terrain_67: 4496213642731447703
+      rune_terrain_68: -5236907245856979645
+      rune_terrain_69: -6471323792526753716
+      rune_terrain_7: -2513612649280160064
+      rune_terrain_70: 7519671114450634828
+      rune_terrain_71: -382476021275697089
+      rune_terrain_72: -6966034236835765095
+      rune_terrain_73: 5174483106613581402
+      rune_terrain_74: 3859169087882124673
+      rune_terrain_75: -6974219499635422307
+      rune_terrain_76: 3895775916823497796
+      rune_terrain_77: 1727670718700576748
+      rune_terrain_78: 4648697652548752825
+      rune_terrain_79: -4285163401933281023
+      rune_terrain_8: 3445398410537822000
+      rune_terrain_80: -4085342887677462347
+      rune_terrain_81: -1391709421049327905
+      rune_terrain_82: 1906152756382388135
+      rune_terrain_83: 1740259371206790853
+      rune_terrain_84: -7340684224719458311
+      rune_terrain_85: 8859079781467236325
+      rune_terrain_86: -6308158952011378739
+      rune_terrain_87: -8207983301192945566
+      rune_terrain_88: -1148079186587067776
+      rune_terrain_89: -4912990123612408002
+      rune_terrain_9: -4200221081747379992
+      rune_terrain_90: 9113583663539398294
+      rune_terrain_91: 8492072648252411553
+      rune_terrain_92: -1730008066480269886
+      rune_terrain_93: -8506851389554558337
+      rune_terrain_94: -4328833738126086011
+      rune_terrain_95: 268391368003112112
+      rune_terrain_96: 1705274340502638487
+      rune_terrain_97: 2409997439869843865
+      rune_terrain_98: -35035589637350331
+      rune_terrain_99: 8591380862969236234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

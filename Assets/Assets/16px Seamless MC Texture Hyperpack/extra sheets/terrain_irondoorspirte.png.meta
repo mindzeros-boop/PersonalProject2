@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 9e0d9a5de5480284a8221f6000f0cbf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5543990836892587683
+    second: terrain_irondoorspirte_0
+  - first:
+      213: 2442783166408036776
+    second: terrain_irondoorspirte_1
+  - first:
+      213: -5572143280679740045
+    second: terrain_irondoorspirte_2
+  - first:
+      213: 8586322866495515629
+    second: terrain_irondoorspirte_3
+  - first:
+      213: 6607915742226836533
+    second: terrain_irondoorspirte_4
+  - first:
+      213: -43678348301196481
+    second: terrain_irondoorspirte_5
+  - first:
+      213: -624255100415393104
+    second: terrain_irondoorspirte_6
+  - first:
+      213: 567683291366069261
+    second: terrain_irondoorspirte_7
+  - first:
+      213: 5874064799515769759
+    second: terrain_irondoorspirte_8
+  - first:
+      213: -1943344350899901986
+    second: terrain_irondoorspirte_9
+  - first:
+      213: 4928794306628129442
+    second: terrain_irondoorspirte_10
+  - first:
+      213: -444868981112189457
+    second: terrain_irondoorspirte_11
+  - first:
+      213: -6024709990519584102
+    second: terrain_irondoorspirte_12
+  - first:
+      213: -4076498597610951142
+    second: terrain_irondoorspirte_13
+  - first:
+      213: 5451506658074663602
+    second: terrain_irondoorspirte_14
+  - first:
+      213: 1795227904906933632
+    second: terrain_irondoorspirte_15
+  - first:
+      213: 4612206210831607443
+    second: terrain_irondoorspirte_16
+  - first:
+      213: 6557328207039874445
+    second: terrain_irondoorspirte_17
+  - first:
+      213: 8292027668448830770
+    second: terrain_irondoorspirte_18
+  - first:
+      213: -7830888050920638113
+    second: terrain_irondoorspirte_19
+  - first:
+      213: -4603111175085411887
+    second: terrain_irondoorspirte_20
+  - first:
+      213: 7550984127216769740
+    second: terrain_irondoorspirte_21
+  - first:
+      213: -3634461928682235738
+    second: terrain_irondoorspirte_22
+  - first:
+      213: -386024294443222056
+    second: terrain_irondoorspirte_23
+  - first:
+      213: 800487436423697631
+    second: terrain_irondoorspirte_24
+  - first:
+      213: 7772229112786250395
+    second: terrain_irondoorspirte_25
+  - first:
+      213: 4718422925968945181
+    second: terrain_irondoorspirte_26
+  - first:
+      213: 7210250833610130860
+    second: terrain_irondoorspirte_27
+  - first:
+      213: 2376347496793210
+    second: terrain_irondoorspirte_28
+  - first:
+      213: -3648092905678138983
+    second: terrain_irondoorspirte_29
+  - first:
+      213: -8420595938126376927
+    second: terrain_irondoorspirte_30
+  - first:
+      213: -7864611736602553875
+    second: terrain_irondoorspirte_31
+  - first:
+      213: -3210922588213035140
+    second: terrain_irondoorspirte_32
+  - first:
+      213: 7564406245396452886
+    second: terrain_irondoorspirte_33
+  - first:
+      213: 2129562407659731047
+    second: terrain_irondoorspirte_34
+  - first:
+      213: 4477708140309417540
+    second: terrain_irondoorspirte_35
+  - first:
+      213: 5153923618103628054
+    second: terrain_irondoorspirte_36
+  - first:
+      213: -1070661765867416018
+    second: terrain_irondoorspirte_37
+  - first:
+      213: 3686790473657380112
+    second: terrain_irondoorspirte_38
+  - first:
+      213: 3613539078886577287
+    second: terrain_irondoorspirte_39
+  - first:
+      213: -2980861030432774591
+    second: terrain_irondoorspirte_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d592ff805b9cf03b0800000000000000
+      internalID: -5543990836892587683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a11e01f85286e120800000000000000
+      internalID: 2442783166408036776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d118d6535cba2b0800000000000000
+      internalID: -5572143280679740045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb6740a72fb82770800000000000000
+      internalID: 8586322866495515629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c64297b5804bb50800000000000000
+      internalID: 6607915742226836533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33a12d06c2d46ff0800000000000000
+      internalID: -43678348301196481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2c38a2b433657f0800000000000000
+      internalID: -624255100415393104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d049cce12f0d0e700800000000000000
+      internalID: 567683291366069261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b73c220ded48150800000000000000
+      internalID: 5874064799515769759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed96950fb9ad705e0800000000000000
+      internalID: -1943344350899901986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a29989de48966440800000000000000
+      internalID: 4928794306628129442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedc739c40283d9f0800000000000000
+      internalID: -444868981112189457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a45541f2ee36ca0800000000000000
+      internalID: -6024709990519584102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e650aaf1e5d67c0800000000000000
+      internalID: -4076498597610951142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba97351c64a7ab40800000000000000
+      internalID: 5451506658074663602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085b8da944ee9e810800000000000000
+      internalID: 1795227904906933632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396e77bbc19d10040800000000000000
+      internalID: 4612206210831607443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85c248134f400b50800000000000000
+      internalID: 6557328207039874445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2356a9d3b33331370800000000000000
+      internalID: 8292027668448830770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f593609bec8135390800000000000000
+      internalID: -7830888050920638113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1376b46c67e10c0800000000000000
+      internalID: -4603111175085411887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca5e5f8e0c7ac860800000000000000
+      internalID: 7550984127216769740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8d63fc12ccf8dc0800000000000000
+      internalID: -3634461928682235738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db7a0f03f094aaf0800000000000000
+      internalID: -386024294443222056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4923f0517eb1b00800000000000000
+      internalID: 800487436423697631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ae294f2318cdb60800000000000000
+      internalID: 7772229112786250395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d103072e6a43b7140800000000000000
+      internalID: 4718422925968945181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5cbce7ee4ff0460800000000000000
+      internalID: 7210250833610130860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74c8648641780000800000000000000
+      internalID: 2376347496793210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9919e69a4de5f5dc0800000000000000
+      internalID: -3648092905678138983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12051e6cb98042b80800000000000000
+      internalID: -8420595938126376927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1df674b494bd290800000000000000
+      internalID: -7864611736602553875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fb8401be28073d0800000000000000
+      internalID: -3210922588213035140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6161a99f66b2af860800000000000000
+      internalID: 7564406245396452886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76875931ab9bd8d10800000000000000
+      internalID: 2129562407659731047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e840764d3042e30800000000000000
+      internalID: 4477708140309417540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111098593a668740800000000000000
+      internalID: 5153923618103628054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2651eaebce3421f0800000000000000
+      internalID: -1070661765867416018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d64aff66c1a2330800000000000000
+      internalID: 3686790473657380112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784d60b95aed52230800000000000000
+      internalID: 3613539078886577287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terrain_irondoorspirte_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146ef34afaad1a6d0800000000000000
+      internalID: -2980861030432774591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      terrain_irondoorspirte_0: -5543990836892587683
+      terrain_irondoorspirte_1: 2442783166408036776
+      terrain_irondoorspirte_10: 4928794306628129442
+      terrain_irondoorspirte_11: -444868981112189457
+      terrain_irondoorspirte_12: -6024709990519584102
+      terrain_irondoorspirte_13: -4076498597610951142
+      terrain_irondoorspirte_14: 5451506658074663602
+      terrain_irondoorspirte_15: 1795227904906933632
+      terrain_irondoorspirte_16: 4612206210831607443
+      terrain_irondoorspirte_17: 6557328207039874445
+      terrain_irondoorspirte_18: 8292027668448830770
+      terrain_irondoorspirte_19: -7830888050920638113
+      terrain_irondoorspirte_2: -5572143280679740045
+      terrain_irondoorspirte_20: -4603111175085411887
+      terrain_irondoorspirte_21: 7550984127216769740
+      terrain_irondoorspirte_22: -3634461928682235738
+      terrain_irondoorspirte_23: -386024294443222056
+      terrain_irondoorspirte_24: 800487436423697631
+      terrain_irondoorspirte_25: 7772229112786250395
+      terrain_irondoorspirte_26: 4718422925968945181
+      terrain_irondoorspirte_27: 7210250833610130860
+      terrain_irondoorspirte_28: 2376347496793210
+      terrain_irondoorspirte_29: -3648092905678138983
+      terrain_irondoorspirte_3: 8586322866495515629
+      terrain_irondoorspirte_30: -8420595938126376927
+      terrain_irondoorspirte_31: -7864611736602553875
+      terrain_irondoorspirte_32: -3210922588213035140
+      terrain_irondoorspirte_33: 7564406245396452886
+      terrain_irondoorspirte_34: 2129562407659731047
+      terrain_irondoorspirte_35: 4477708140309417540
+      terrain_irondoorspirte_36: 5153923618103628054
+      terrain_irondoorspirte_37: -1070661765867416018
+      terrain_irondoorspirte_38: 3686790473657380112
+      terrain_irondoorspirte_39: 3613539078886577287
+      terrain_irondoorspirte_4: 6607915742226836533
+      terrain_irondoorspirte_40: -2980861030432774591
+      terrain_irondoorspirte_5: -43678348301196481
+      terrain_irondoorspirte_6: -624255100415393104
+      terrain_irondoorspirte_7: 567683291366069261
+      terrain_irondoorspirte_8: 5874064799515769759
+      terrain_irondoorspirte_9: -1943344350899901986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

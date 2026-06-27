@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 4e82e858f6055cf4da652355164cb57c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -194064647217456248
+    second: extrabiomes_0
+  - first:
+      213: 7971247359421223620
+    second: extrabiomes_1
+  - first:
+      213: 5461524943926738554
+    second: extrabiomes_2
+  - first:
+      213: 4667904337559582868
+    second: extrabiomes_3
+  - first:
+      213: 1907446784932429835
+    second: extrabiomes_4
+  - first:
+      213: 5122111924018350186
+    second: extrabiomes_5
+  - first:
+      213: 2706255144602792843
+    second: extrabiomes_6
+  - first:
+      213: -8393755151274341016
+    second: extrabiomes_7
+  - first:
+      213: 4630612124098515050
+    second: extrabiomes_8
+  - first:
+      213: -4566298883024605415
+    second: extrabiomes_9
+  - first:
+      213: -1350094346455050560
+    second: extrabiomes_10
+  - first:
+      213: -6722644166493859676
+    second: extrabiomes_11
+  - first:
+      213: 8492814088174574837
+    second: extrabiomes_12
+  - first:
+      213: -838453321095812234
+    second: extrabiomes_13
+  - first:
+      213: -1873060079880315413
+    second: extrabiomes_14
+  - first:
+      213: -8784920767181309196
+    second: extrabiomes_15
+  - first:
+      213: 140771392197409372
+    second: extrabiomes_16
+  - first:
+      213: -101263015154807210
+    second: extrabiomes_17
+  - first:
+      213: 6259593534384065319
+    second: extrabiomes_18
+  - first:
+      213: 1416485471344488390
+    second: extrabiomes_19
+  - first:
+      213: 4112470863954499216
+    second: extrabiomes_20
+  - first:
+      213: 975247284346650394
+    second: extrabiomes_21
+  - first:
+      213: -1854191737254775335
+    second: extrabiomes_22
+  - first:
+      213: -896737270077312258
+    second: extrabiomes_23
+  - first:
+      213: 1706280437413937746
+    second: extrabiomes_24
+  - first:
+      213: 2395539457494253522
+    second: extrabiomes_25
+  - first:
+      213: 2209991647075888460
+    second: extrabiomes_26
+  - first:
+      213: 8228109240633383856
+    second: extrabiomes_27
+  - first:
+      213: -2317664657708930676
+    second: extrabiomes_28
+  - first:
+      213: -1299496707807373545
+    second: extrabiomes_29
+  - first:
+      213: 4893460300899502634
+    second: extrabiomes_30
+  - first:
+      213: -6814049243342541034
+    second: extrabiomes_31
+  - first:
+      213: -8863792704003907948
+    second: extrabiomes_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: extrabiomes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b54274b3b8e4df0800000000000000
+      internalID: -194064647217456248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 244
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2921b6d3f8f9e60800000000000000
+      internalID: 7971247359421223620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e30b6000c3bcb40800000000000000
+      internalID: 5461524943926738554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 239
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4987ebd634ab7c040800000000000000
+      internalID: 4667904337559582868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 244
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00cbdbaebc987a10800000000000000
+      internalID: 1907446784932429835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6808e228a5651740800000000000000
+      internalID: 5122111924018350186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 239
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b837f9537bc8e8520800000000000000
+      internalID: 2706255144602792843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 244
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d00b47924638b80800000000000000
+      internalID: -8393755151274341016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60528d513d334040800000000000000
+      internalID: 4630612124098515050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 239
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f2e03fb5f31a0c0800000000000000
+      internalID: -4566298883024605415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 244
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c698425850834de0800000000000000
+      internalID: -1350094346455050560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a018c8afbe54b2a0800000000000000
+      internalID: -6722644166493859676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 239
+        width: 92
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc14159a698cd570800000000000000
+      internalID: 8492814088174574837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b665395273d54f0800000000000000
+      internalID: -838453321095812234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedd4cff7cd8106e0800000000000000
+      internalID: -1873060079880315413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 223
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fab4345b11b51680800000000000000
+      internalID: -8784920767181309196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 223
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ab67ad5de14f100800000000000000
+      internalID: 140771392197409372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 223
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e00d003dd389ef0800000000000000
+      internalID: -101263015154807210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 223
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b4b4f972b8ed650800000000000000
+      internalID: 6259593534384065319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 223
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf6df4080e58a310800000000000000
+      internalID: 1416485471344488390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096d623467e621930800000000000000
+      internalID: 4112470863954499216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f75afec36c88d00800000000000000
+      internalID: 975247284346650394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5f67b50769446e0800000000000000
+      internalID: -1854191737254775335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 191
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2303834362e83f0800000000000000
+      internalID: -896737270077312258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252814f740deda710800000000000000
+      internalID: 1706280437413937746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 191
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df7069c17aae3120800000000000000
+      internalID: 2395539457494253522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 207
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4de988a1b77bae10800000000000000
+      internalID: 2209991647075888460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 207
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbdf0d82cd103270800000000000000
+      internalID: 8228109240633383856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 207
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8928c8f54006dfd0800000000000000
+      internalID: -2317664657708930676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 191
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7171a5811a247fde0800000000000000
+      internalID: -1299496707807373545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 159
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a479d873019e340800000000000000
+      internalID: 4893460300899502634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f6c88c052af61a0800000000000000
+      internalID: -6814049243342541034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: extrabiomes_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ed5238f7b7df480800000000000000
+      internalID: -8863792704003907948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      extrabiomes_0: -194064647217456248
+      extrabiomes_1: 7971247359421223620
+      extrabiomes_10: -1350094346455050560
+      extrabiomes_11: -6722644166493859676
+      extrabiomes_12: 8492814088174574837
+      extrabiomes_13: -838453321095812234
+      extrabiomes_14: -1873060079880315413
+      extrabiomes_15: -8784920767181309196
+      extrabiomes_16: 140771392197409372
+      extrabiomes_17: -101263015154807210
+      extrabiomes_18: 6259593534384065319
+      extrabiomes_19: 1416485471344488390
+      extrabiomes_2: 5461524943926738554
+      extrabiomes_20: 4112470863954499216
+      extrabiomes_21: 975247284346650394
+      extrabiomes_22: -1854191737254775335
+      extrabiomes_23: -896737270077312258
+      extrabiomes_24: 1706280437413937746
+      extrabiomes_25: 2395539457494253522
+      extrabiomes_26: 2209991647075888460
+      extrabiomes_27: 8228109240633383856
+      extrabiomes_28: -2317664657708930676
+      extrabiomes_29: -1299496707807373545
+      extrabiomes_3: 4667904337559582868
+      extrabiomes_30: 4893460300899502634
+      extrabiomes_31: -6814049243342541034
+      extrabiomes_32: -8863792704003907948
+      extrabiomes_4: 1907446784932429835
+      extrabiomes_5: 5122111924018350186
+      extrabiomes_6: 2706255144602792843
+      extrabiomes_7: -8393755151274341016
+      extrabiomes_8: 4630612124098515050
+      extrabiomes_9: -4566298883024605415
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

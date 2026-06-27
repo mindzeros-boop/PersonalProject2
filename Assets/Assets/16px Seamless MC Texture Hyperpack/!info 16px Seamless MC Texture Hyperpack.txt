@@ -1,0 +1,20 @@
+Hello and welcome!
+
+This is an enourmously big modder's resource hyperpack.
+
+Over 6100 tiles/blocks/seamlessly tiling textures!
+Over 1400 different plants/flora sprites!
+Over 90 extra sheets with even more tiles and sprites on them!
+
+All in one place, compiled from countless MC texture packs. Save time and don't reinvent the wheel, focus on maximizing creativity!
+
+Format: PNG
+Image Size: 16x16px
+
+Use them as 3D model textures, 3D terrain textures, tiling 2D surfaces, tiling website backgrounds or in any other artistic endeavours!
+Note: Because they're so small at 16 pixels, I recommend scaling up the textures in the code by 2-8 times the size with Scale(2.0) or similar in which ever code you work in.
+
+--
+
+Compiled by: Reactorcore
+http://www.reactorcoregames.com
